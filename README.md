@@ -6,7 +6,7 @@
 - 📫 How to reach me **kashyapsanskar95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/05/52/43/18/1000_F_552431858_ViEUupChZ8SOvqYjvtNE1SieQHUdvFjT.jpg">
 <p align="left">
 <a href="https://linkedin.com/in/sanskar kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar kashyap" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanskar_kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanskar_kashyap" height="30" width="40" /></a>
