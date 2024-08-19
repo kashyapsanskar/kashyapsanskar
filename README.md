@@ -12,7 +12,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/sanskar kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar kashyap" height="30" width="40" /></a>
-<a href="https://medium.com/@sanskar kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanskar kashyap" height="30" width="40" /></a>
+<a href="https://medium.com/@kashyapsanskar95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanskar kashyap" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanskar_kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanskar_kashyap" height="30" width="40" /></a>
 </p>
 
