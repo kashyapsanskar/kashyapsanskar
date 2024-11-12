@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskar Kashyap</h1>
 <h3 align="center">A passionate engineering undergrad from India, diving deep into development.</h3>
 
-- 🌱 I’m currently learning **DevOps, Machine Learning,AI automation**
+- 🌱 I’m currently learning **Java,Spring Boot**
 
 - 💬 Ask me about **MERN,Data Structures and Algorithms**
   
